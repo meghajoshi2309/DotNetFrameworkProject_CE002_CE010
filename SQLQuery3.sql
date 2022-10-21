@@ -1,0 +1,1 @@
+﻿delete from Seller Where Email = "Email";
